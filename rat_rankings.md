@@ -13,5 +13,6 @@
 Berkeley Campus Rat (credit to my student Catherine Ando)
 Scrat
 Rufus the naked mole rat
+Fievel Mousekewitz
 
 ![Berkeley campus rat](campus_rat.png)
